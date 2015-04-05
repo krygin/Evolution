@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evolution</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="url_root">http://mobevo.ext.terrhq.ru/</string>
+    <string name="path_to_json_file">shr/j/ru/technology.js</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
